@@ -18,7 +18,7 @@ Statslabs.Matrix is the fundamental package of Statslabs for statistical computi
 ## Installation on Ubuntu / macOS
 1. Clone the repository.
    ```sh
-   git clone git@github.com:statslabs/matrix.git
+   git clone https://github.com/ypan1988/matrix.git
    ```
 2. Configure the project.
    ```sh
